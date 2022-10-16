@@ -6,27 +6,6 @@
 -->
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
-    <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
-  </a>
-
-  <h1 align="center">The Wedding</h1>
-
-  <p align="center">
-    <strong>Rehan & Maulidan</strong>
-    <br />
-    <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">Explore the Invitation ! »</a>
-    <br />
-    <br />
-    <a href="https://github.com/rayhanyulanda">Rayhan Yulanda</a>
-    ·
-    <a href="https://github.com/maulidandev">Maulidan Nashuha</a>
-  </p>
-</div>
-
 ## Features
 - Countdown to the date and count how many days have been
 - Save google calendar
